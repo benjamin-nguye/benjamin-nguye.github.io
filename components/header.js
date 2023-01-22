@@ -1,5 +1,5 @@
 import styles from '../styles/header.module.css'
-import Head from 'next/Head'
+import Head from 'next/head'
 import Link from 'next/Link'
 
 export default function Header() {
